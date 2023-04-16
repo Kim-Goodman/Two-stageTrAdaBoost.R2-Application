@@ -11,7 +11,7 @@
 
 四个函数程序Division.m、hypothesisAdaBoost.m、plotfunc.m、updateBeta.m
 
-NPIdata.mat数据基于[https://github.com/
-xuanxuanzhou/NPI-method-matlab-code-for-KG]{https://github.com/
-xuanxuanzhou/NPI-method-matlab-code-for-KG}程序获取。
+NPIdata.mat内数据通过[https://github.com/
+xuanxuanzhou/NPI-method-matlab-code-for-KG](https://github.com/
+xuanxuanzhou/NPI-method-matlab-code-for-KG)中的程序获取。
 
