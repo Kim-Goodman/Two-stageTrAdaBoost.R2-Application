@@ -7,7 +7,7 @@
 
 包含一个储存数据的mat文件NPIdata.mat
 
-以及两个算法程序LSTMlearner.m、Two_stageTrAdaBoostR2.m
+以及两个算法程序LSTMLearner.m、Two_stageTrAdaBoostR2.m
 
 四个函数程序Division.m、hypothesisAdaBoost.m、plotfunc.m、updateBeta.m
 
